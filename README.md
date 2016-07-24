@@ -1,2 +1,4 @@
 # hello-world
-Hi this is me just getting used to this interface
+
+I've just managed to edit this and started using my Shell ... yippie!!
+
